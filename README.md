@@ -92,5 +92,5 @@ This insight supports:
 
 ---
 
-## 📎 Project Structure
+
 
